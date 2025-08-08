@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="[https://i.ibb.co/ZKQ8Fcv/github-banner.png](https://i.ibb.co.com/C35hc7zj/Blue-and-Yellow-Simple-Digital-Marketing-Video.jpg)" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/tTg8247C/bannerO.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Mehedi Hasan Emon</h1>

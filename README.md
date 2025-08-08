@@ -1,16 +1,68 @@
-## Hi there 👋
+<!-- Banner Image -->
+<p align="center">
+  <img src="[https://i.ibb.co/ZKQ8Fcv/github-banner.png](https://i.ibb.co.com/C35hc7zj/Blue-and-Yellow-Simple-Digital-Marketing-Video.jpg)" alt="Banner" width="100%" />
+</p>
 
-<!--
-**emonhasan17/emonhasan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Md Mehedi Hasan Emon</h1>
+<h3 align="center">Frontend Developer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a passionate frontend developer from **Dhaka, Bangladesh** who loves building interactive and responsive web applications.  
+With a growing interest in modern frameworks, I enjoy transforming creative ideas into functional digital experiences.  
+I believe in continuous learning and exploring new technologies to enhance my development skills.
+
+---
+
+## 📌 Current Activities
+- 🌱 I am exploring **Next.js**
+- 💻 I’m working on a **Property Management website**
+- 📚 Learning **TypeScript**
+- 🚀 Contributing to **open-source projects**
+
+---
+
+## 🛠 Skills
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://github.com/YourUsername" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/YourLinkedInUsername" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
